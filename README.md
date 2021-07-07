@@ -1,11 +1,20 @@
-### Hi there 👋
+## Hi there, I'm Anas Shaikh 👋
 
+I'm a <b>BSc.Information Technology</b> Fresher who is passionate in blending the art of <b><i>design</i></b> with skill of <b><i>programming</i></b>.
+
+### About Me
+<ul>
+  <li> 🔭 I'm currently working :computer: on Task App. Task App tracks and manages tasks. It was mode using NodeJs, MongoDB and React.</li>
+  <li> 🌱 I'm currently learning AWS cloud practitioner, Azure, React Native.</li>
+  <li> 👯 I'm currently looking to collaborate on MERN, UI/UX implementation projects.</li>
+  <li> 💬 Ask me about Responsive Designs,Javascript DOM,React Hooks and Components.</li>
+</ul>
 <!--
 **AnasShaikh96/AnasShaikh96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
